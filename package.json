@@ -1,0 +1,24 @@
+{
+  "name": "tfjs-issue-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mysticatea/tfjs-issue-ts.git"
+  },
+  "keywords": [],
+  "author": "Toru Nagashima (https://github.com/mysticatea)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mysticatea/tfjs-issue-ts/issues"
+  },
+  "homepage": "https://github.com/mysticatea/tfjs-issue-ts#readme",
+  "devDependencies": {
+    "@tensorflow/tfjs": "^0.10.3",
+    "typescript": "^2.8.3"
+  }
+}
